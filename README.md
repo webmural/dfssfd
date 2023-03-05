@@ -1,4 +1,5 @@
-# [index](index.html)
+# [`li`*spy* mural](https://webmural.com/lispy)
 
-* [HTML](https://webmural.com/html)
-* [CSS](https://webmural.com/css)
+* `float`
+* `flex`
+* `dotted`
